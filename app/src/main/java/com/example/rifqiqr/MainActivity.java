@@ -96,6 +96,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this,"There are no email clients installed.",Toast.LENGTH_SHORT).show();
                 }
             }
+            // keterangan untuk test repository
                 //jika qr ada/ditemukan data nya
                 try {
                     //konversi datanya ke json
