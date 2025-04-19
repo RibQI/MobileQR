@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RifqiQR</string>
+    <string name="Nama">Nama</string>
+    <string name="Kelas">Kelas</string>
+    <string name="nim">NIM</string>
+    <string name="Scan_Button">Scan QR Code</string>
+    <string name="Content_xyz">xyz</string>
+</resources>
